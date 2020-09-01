@@ -8,8 +8,11 @@ This part of the repository is maintained by:
 * Priyanshi Sharma - https://github.com/priyanshisharma
 
 **Mentees** 
-    * <your name here>
-    * <your name here>
+* Girish Sontakke - https://github.com/girishsontakke    
+* Vridhi Kamath - https://github.com/vridhi-vk
+* Shivam Yadav - https://github.com/ExpressHermes
+* Karol Wojcik - https://github.com/karolade
+* Divya Rudraraju - https://github.com/its-divya
 
 Looking forward to a wonderful journey! :tada:
 
@@ -18,3 +21,17 @@ Looking forward to a wonderful journey! :tada:
 * How to make the most of this?
 * How to use GitHub?
 * Got started with designing our flappy bird game.
+
+**Week 2**
+* Completed Flappy bird game
+* Addressed problems faced while using GitHub
+
+**Week 3**
+* Started with the Snake Game. Covered the following:
+  * The Canvas
+  * The Snake's Head - Creation and Movement
+  * The Food - Creation and Regeneration on Eating
+
+**Week 4**
+* Finished Snake Game
+* Discussed scope of improvement and other suggestions
